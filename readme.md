@@ -43,7 +43,7 @@ All required packages are listed in requirements.txt. Ensure you have Python 3.1
 	```  
 	Once the agent is running, you can use quickstart.py to connect to it and interact with it via URL:
 	```bash
-	python quickstart.py --url http://0.0.0.0:5000
+	python quickstart.py --url http://127.0.0.1:5000
 	```
 
 ### Option 2: Docker Installation
